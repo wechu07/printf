@@ -41,7 +41,7 @@ int print_i(va_list i)
 
 /**
  *print_d - prints a decimal
- *@d: decimal to print
+ *@d: decimal to be print
  *
  *Return: number of chars and digits printed
  */
