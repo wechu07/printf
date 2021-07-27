@@ -1,4 +1,4 @@
-**This repo contains files on a C project, which requires ALX students to create the printf functions from scratch, as well as the man page for the functions**
+**This repository contains files on a C project, which requires ALX students to create the printf functions from scratch, as well as the man page for the functions**
 
 The project requires us to create various various standard library equivalents of printf in C, to _printf, a function which we will customize.
 
