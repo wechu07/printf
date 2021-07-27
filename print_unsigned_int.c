@@ -2,7 +2,7 @@
 
 /**
  *print_u - prints an unsigned in in decimal notation
- *@u: unsigned int to print
+ *@u: unsigned int to be printed
  *
  *Return: number of digits printed
  */
@@ -34,7 +34,7 @@ int print_u(va_list u)
 
 /**
  *print_o - takes an unsigned int and prints it in octal notation
- *@o: unsigned int to print
+ *@o: unsigned int to be printed
  *
  *Return: number of digits printed
  */
@@ -66,7 +66,7 @@ int print_o(va_list o)
 
 /**
  *print_b - takes an unsigned int and prints it in binary notation
- *@b: unsigned in to print
+ *@b: unsigned int to be printed
  *
  *Return: number of digits printed
  */
