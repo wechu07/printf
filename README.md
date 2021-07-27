@@ -58,6 +58,7 @@ Function prototype: `int _printf(const char *format, ...);`
 * print_rot13.c - contains the function `print_R`, which handles the conversion specifier `R`
  
  EDITED BY
+
  [Eugene Simiyu](https://github.com/wechu07)   ||
  
  [Gedion Saiyuah](https://github.com/Sairikei) ||
