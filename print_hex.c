@@ -2,7 +2,7 @@
 
 /**
  * print_hex - prints an unsigned int in hexidecimal form
- * @n: unsigned int to print
+ * @n: unsigned int to be printed
  * @c: flag to determine case of printing (0 = lower, 1 = upper)
  *
  * Return: number of digits printed
@@ -41,7 +41,7 @@ int print_hex(unsigned int n, unsigned int c)
 }
 /**
  * print_x - takes an unsigned int and prints it in lowercase hex notation
- * @x: unsigned int to print
+ * @x: unsigned int to be printed
  *
  * Return: number of digits printed
  */
