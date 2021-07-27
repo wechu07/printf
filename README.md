@@ -4,7 +4,7 @@ The project requires us to create various various standard library equivalents o
 
 Function prototype: `int _printf(const char *format, ...);`
 
-##Examples##
+##Examples
 
 **Integers**
  * Input: `_printf("We are %d\n", 2);`
@@ -22,7 +22,7 @@ Function prototype: `int _printf(const char *format, ...);`
  * Input: `_printf("%d\n", 30);`
  * Output: `30`
  
-##Tasks##
+##Tasks
  
  _Mandatory ones_
  
