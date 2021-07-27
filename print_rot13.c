@@ -3,7 +3,7 @@
 
 /**
  *print_R - prints a string in rot13
- *@R: string to print
+ *@R: string to be printed
  *
  *Return: number of chars printed
  */
