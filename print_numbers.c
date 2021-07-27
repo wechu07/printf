@@ -72,7 +72,7 @@ int print_d(va_list d)
 		if (sum != 0 || j == 9)
 		{
 			_putchar('0' + a[j]);
-			count++
+			count++;
 		}
 	}
 	return (count);
